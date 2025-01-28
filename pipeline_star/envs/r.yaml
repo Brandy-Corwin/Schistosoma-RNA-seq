@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-deseq2
+  - r-tidyverse
+  - r-broom
+  - r-languageserver
